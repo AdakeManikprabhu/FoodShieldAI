@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Custom theme overrides for FoodShieldAI */
+@theme {
+  --color-forestgreen: #2F6B2E;
+  --color-cream: #FFF9E6;
+  --color-gold: #D4AF37;
+}
